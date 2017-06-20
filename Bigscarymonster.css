@@ -1,0 +1,119 @@
+body{
+	background-color: lightblue;
+}
+.head {
+	width: 125px;
+	height: 110px;
+	background-color: tan;
+	position: relative;
+    left: 400px;
+    top: -140px;
+}
+
+.leftoutereye{
+	width: 10px;
+	height: 10px;
+	background-color: white;
+	position: relative;
+	left: 20px;
+	top: 50px;
+}
+ 
+ .rightoutereye{
+ 	width: 10px;
+ 	height: 10px;
+ 	background-color: white;
+ 	position: relative;
+ 	left: 90px;
+ 	top: 40px;
+ }
+.rightinnereye{
+	width: 10px;
+	height: 10px;
+	background-color: #000080;
+	position: relative;
+	top: 30px;
+	left: 30px;
+}
+.leftinnereye {
+	width: 10px;
+	height: 10px;
+	background-color: #000080;
+	position: relative;
+	top: 20px;
+	left: 80px;
+}
+.hair{
+	width: 125px;
+	height: 20px;
+	background-color: #523314;
+	position: relative;
+	top: -40px
+}
+
+.body {
+	width: 125px;
+	height: 150px;
+	background-color: turquoise;
+	position: relative;
+	top: 150px;
+	left: 400px;
+}
+.haironface1{
+	width: 20px;
+	height: 20px;
+	background-color: #523314;
+	position: relative;
+	top: -40px;
+}
+.haironface2{
+	width: 20px;
+	height: 20px;
+	background-color: #523314;
+	position: relative;
+	top: -60px;
+	left: 105px;
+}
+.mouth{
+	width: 60px;
+	height: 10px;
+	background-color: #613305;
+	position: relative;
+	left: 30px;
+	top: -20px;
+}
+.shoulder1{
+	width: 220px;
+	height: 50px;
+	background-color: turquoise;
+	position: relative;
+	left: 350px;
+	top: -150px;
+}
+.arm1{
+	width: 220px;
+	height: 130px;
+	background-color: tan;
+	position: relative;
+	z-index: -1;
+	left: 350px;
+	top: -150px;
+}
+.leg1{
+	width: 125px;
+	height: 180px;
+	background-color: #000080;
+	position: relative;
+	top: -170px;
+	left: 400px;
+}
+.shoes{
+	width: 125px;
+	height: 30px;
+	background-color: gray;
+	position: relative;
+	left: 400px;
+	top: -200px
+}
+
+
